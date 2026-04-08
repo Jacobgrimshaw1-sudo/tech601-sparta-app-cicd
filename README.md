@@ -1,4 +1,4 @@
-# Use this repo with Jenkins for CICD with Job 3 test 1
+# Use this repo with Jenkins for CICD with Job 3 test 2
 
 ## About the app
 - "app" folder stores Sparta app
