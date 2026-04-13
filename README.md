@@ -1,4 +1,4 @@
-# Use this repo with Jenkins for CICD with Job 3 
+# Use this repo with Jenkins for CICD with gitpublish plugin 
 
 ## About the app
 - "app" folder stores Sparta app
